@@ -1,4 +1,4 @@
-{
+  {
   "opendb_id": "21d124cc-1269-4a7a-b72f-a9e1a71c48b1",
   "metadata": {
     "name": "Lian Li Uni Fan SL-Infinity 120mm White PWM Addressable RGB 3-Pack",
@@ -10,7 +10,7 @@
   "color": [
     "WHITE"
   ],
-  "quantity": 3,
+  "quantity": 10,
   "min_airflow": 0,
   "max_airflow": 61.3,
   "min_noise_level": 0,
